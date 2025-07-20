@@ -1,3 +1,3 @@
 # landing-page
 odin project repository
-Here, I will create a new repo using css flexbox style.
+Here, I will be creating a project using css fleblox.
