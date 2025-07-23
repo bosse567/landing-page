@@ -1,0 +1,54 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    font-size: 24px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+
+.hero {
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.intro {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.links  {
+    font-size: 18px; 
+    color: #E5E7EB;
+}
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+}
+
+.quote {
+    font-size: 36px;
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-family: light italic;
+}
+
+.button {
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+}
+
+footer {
+    background-color: #1F2937;
+    color: white;
+}
