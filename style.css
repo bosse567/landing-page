@@ -2,10 +2,18 @@ body {
     font-family: sans-serif;
 }
 
+.header {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
 header {
     font-size: 24px;
     font-weight: 700;
     color: #F9FAF8;
+    flex: 1;
+    order: 1;
 }
 
 .hero {
@@ -27,6 +35,11 @@ h1 {
 .links  {
     font-size: 18px; 
     color: #E5E7EB;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+    gap: 12px;
+    align-items: flex-start;
 }
 
 h2 {
