@@ -9,7 +9,7 @@ header {
     font-weight: 700;
     color: #F9FAF8;
     flex: 1;
-    margin-left: 12px;
+    margin-left: 18px;
     margin-top: 18px;
 }
 
@@ -20,7 +20,7 @@ header {
     display: flex;
     gap: 12px;
     justify-content: flex-end;
-    margin-right: 12px;
+    margin-right: 10px;
 }
 
 .first-line {
@@ -46,6 +46,7 @@ header {
     align-self: flex-start;
     flex-direction: column;
     margin-left: 18px;
+    margin-right: 10px;
 }
 
 .text-alex {
@@ -57,7 +58,12 @@ header {
 
 .first-button {
     flex: 0;
-    margin-right: 700px;
+    margin-right: 650px;
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px
 }
 
 .alex {
